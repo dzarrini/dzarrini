@@ -6,6 +6,7 @@ Hey! I'm Dan — a software engineer with ~8 years of experience building things
 
 ### 🛠 Projects Outside of Work
 
+* **Oto** — Terminal audio visualizer written in C that captures live audio with PipeWire, runs real-time FFT (FFTW), and renders bass/mid/treble bars in the terminal.
 * **Gokon** — Built a social event coordination app with SwiftUI for iOS and a Flask backend API. The app lets people coordinate and manage events anonymously without sharing PII. It was also an experiment in partnering with coding agents to take an idea from concept to execution. Check out the demo and iOS code at [gokon-ios-client](https://github.com/dzarrini/gokon-ios-client) and the backend at [gokon-server](https://github.com/dzarrini/gokon-server).
 * **[Celestial Sphere!](https://dan.tokyo.jp/blog/2024/08/04/celestial_sphere)** — Interactive 3D visualization of 10,000 stars from the Hipparcos Star Catalog.
 * **[High FPS GIF?](https://dan.tokyo.jp/blog/2025/07/07/gif)** — A from-scratch GIF encoder written in C following the GIF89a specification, built specifically to test how browsers handle high frame rate GIFs. Here's the code: [gif-encoder](https://github.com/dzarrini/gif-encoder).
